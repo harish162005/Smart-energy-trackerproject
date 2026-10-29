@@ -18,7 +18,7 @@ In Tamil Nadu, electricity bills come once in two months, so a sudden rise in us
 ## Screenshots
 
 ### Login
-![Login page](Screenshots/login.png.png)
+![Login page](project%20screenshots/login.png.png)
 
 ### Dashboard
 ![Dashboard cards](project%20screenshots/dashboard1-cards.png.png)
