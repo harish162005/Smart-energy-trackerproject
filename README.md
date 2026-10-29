@@ -15,6 +15,19 @@ In Tamil Nadu, electricity bills come once in two months, so a sudden rise in us
 - Dashboard with usage graph, predicted bill and alerts
 - Duplicate checks (one reading per meter per date, one alert per date)
 
+## Screenshots
+
+### Login
+![Login page](screenshots/login.png)
+
+### Dashboard
+![Dashboard cards](screenshots/dashboard-1-cards.png.png)
+![Daily usage graph](screenshots/dashboard-2-graph.png.png)
+![Alerts](screenshots/dashboard-3-alerts.png.png)
+
+### Database
+![Database tables](screenshots/database.png.png)
+
 ## Tech Stack
 - Java, Spring Boot 4.1.1, Spring Data JPA
 - MySQL 8
