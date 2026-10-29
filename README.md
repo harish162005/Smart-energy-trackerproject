@@ -17,16 +17,15 @@ In Tamil Nadu, electricity bills come once in two months, so a sudden rise in us
 
 ## Screenshots
 
+## Screenshots
+
 ### Login
-![Login page](screenshots/login.png)
+![Login page](screenshots/login.png.png)
 
 ### Dashboard
-![Dashboard cards](screenshots/dashboard-1-cards.png.png)
-![Daily usage graph](screenshots/dashboard-2-graph.png.png)
-![Alerts](screenshots/dashboard-3-alerts.png.png)
-
-### Database
-![Database tables](screenshots/database.png.png)
+![Dashboard cards](screenshots/dashboard1-cards.png.png)
+![Daily usage graph](screenshots/dashboard2-graph.png.png)
+![Alerts](screenshots/dashboard3-alert.png.png)
 
 ## Tech Stack
 - Java, Spring Boot 4.1.1, Spring Data JPA
