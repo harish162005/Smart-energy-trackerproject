@@ -22,8 +22,8 @@ In Tamil Nadu, electricity bills come once in two months, so a sudden rise in us
 
 ### Dashboard
 ![Dashboard cards](project%20screenshots/dashboard1-cards.png.png)
-![Daily usage graph](Screenshots/dashboard2-graph.png.png)
-![Alerts](Screenshots/dashboard3-alert.png.png)
+![Daily usage graph](project%20screenshots/dashboard2-graph.png.png)
+![Alerts](project%20screenshots/dashboard3-alert.png.png)
 
 ## Tech Stack
 - Java, Spring Boot 4.1.1, Spring Data JPA
